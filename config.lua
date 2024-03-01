@@ -231,7 +231,7 @@ Config.SkinnableAnimals = {
     [831859211]   = { name = "Egret", givenItem = { "bird", "egretf", "egretb" }, givenAmount = { 1, 1, 1 }, givenDisplay = {
         "Bird meat", "Egret feather", "Egret beak" }, money = 0, gold = 0, rolPoints = 0, xp = 1, texture =
     "animal_egret_little", action = "Skinned", type = "satchel_textures" },
-    --[[   [-2021043433] = { name = "Elk", givenItem = { "venison", "elkantler", "elks" }, givenAmount = { 1, 1, 1 }, givenDisplay = {
+    [[   [-2021043433] = { name = "Elk", givenItem = { "venison", "elkantler", "elks" }, givenAmount = { 1, 1, 1 }, givenDisplay = {
         "Venison", "Elk antler", "Elk pelt" }, money = 0, gold = 0, rolPoints = 0, xp = 1, texture = "animal_elk", action =
     "Skinned", type = "satchel_textures" }, ]]
     [252669332]   = { name = "American Red Fox", givenItem = { "game", "foxt", "foxskin" }, givenAmount = { 1, 1, 1 }, givenDisplay = {
@@ -512,7 +512,7 @@ Config.SkinnableAnimals = {
 
     ------------------------------------------------------------- LEGENDARY ANIMAL SKINNING STARTS HERE   ----------------------------------------------------------------------
 
-    [-2021043433] = { name = "Legendary White Elk", givenItem = { "venison", "elkantler", "legelks" }, givenAmount = { 1,
+    [-781967776] = { name = "Legendary White Elk", givenItem = { "venison", "elkantler", "legelks" }, givenAmount = { 1,
         1, 1 }, givenDisplay = { "Venison", "Elk antler", "Legendary Elk pelt" }, money = 0, gold = 0, rolPoints = 0, xp = 1, texture =
     "animal_elk", action = "Skinned", type = "satchel_textures" },
     [-1747620994] = { name = "Legendary Boa", givenItem = { "stringy", "legendsnakes", "snaket" }, givenAmount = { 1, 1,
